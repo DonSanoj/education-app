@@ -1,7 +1,6 @@
 import { View, Text, Image, StyleSheet } from 'react-native'
 import React from 'react'
 import Color from '../Shared/Color';
-
 import { Ionicons } from '@expo/vector-icons';
 
 export default function Login() {
